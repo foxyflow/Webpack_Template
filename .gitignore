@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+# From this folder so far -- the above can be removed
+node_modules
+dist
+
